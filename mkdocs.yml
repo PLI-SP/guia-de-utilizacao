@@ -7,7 +7,7 @@ theme:
 
   palette:
     - scheme: default
-      primary: indigo
+      primary: red
       accent: blue
       toggle:
         icon: material/brightness-7
