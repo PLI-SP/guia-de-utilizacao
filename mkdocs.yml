@@ -1,1 +1,18 @@
+site_name: Manual do Sistema
+site_description: Documentação do sistema
 
+theme:
+  name: material
+  language: pt-BR
+
+nav:
+  - Início: index.md
+  - Introdução: introducao.md
+  - Instalação: instalacao.md
+  - Perguntas frequentes: perguntas-frequentes.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
