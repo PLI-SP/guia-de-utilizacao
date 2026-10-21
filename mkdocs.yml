@@ -6,10 +6,10 @@ theme:
   locale: pt_BR
 
 nav:
-  - Início: index.md
   - Introdução: introducao.md
-  - Instalação: instalacao.md
-  - Perguntas frequentes: perguntas-frequentes.md
+  - Matrizes & Dados de Entrada: dados-entrada.md
+  - Calibração: calibracao.md
+  - Escolha Modal: escolha-modal.md
 
 extra_css:
   - stylesheets/extra.css
